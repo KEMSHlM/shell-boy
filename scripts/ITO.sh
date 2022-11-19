@@ -14,7 +14,7 @@ do
     rm ./"$i"/multirun.sh.o*
 
     # $i というディレクトリがなければ生成．
-    # if [ 処理 ]; then -> ifの前後はスペースがいる
+    # if [ 処理 ]; then -> ifの前後はスペースがいる(畜生仕様)
     if [ ! -d "$i" ]; then
         mkdir "$i"
     fi
@@ -33,6 +33,7 @@ do
     sed -i.bak -e "7d" -e "14d" ./"$i"/multirun.sh
     rm "$i"/*.bak
 
+    # cd に失敗したら，終了．なんて便利なんだ．習慣にしよう.
     cd "$i" || exit
     # 変更した内容で別のshell scriptを実行．ここでコンパイルして実行するのもいいね
     pjsub multirun.sh
