@@ -12,8 +12,9 @@
 みんなのshell解説付きで共有すればいいんじゃね？(IQ２億)
 
 全ての知を集約させ，我々は到達するのだ．プロシュート兄貴のように  
+
 ![Aniki](/fig/aniki.png)
 
 # 2. 一覧
 - [名前に数字が含まれるファイルをまとめて一つにしたい](/scripts/cat.sh) @KEMSHlM  
-- [ソースを一部書き換えて，自動で実行したい](/scripts/ITO.sh) @KEMSHlM
+- [条件を一部書き換えて，複数条件自動で実行したい](/scripts/ITO.sh) @KEMSHlM
