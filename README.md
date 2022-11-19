@@ -16,5 +16,9 @@
 ![Aniki](/fig/aniki.png)
 
 # 2. 一覧
-- [名前に数字が含まれるファイルをまとめて一つにしたい](/scripts/cat.sh) @KEMSHlM  
-- [条件を一部書き換えて，複数条件自動で実行したい](/scripts/ITO.sh) @KEMSHlM
+- 名前に数字が含まれるファイルをまとめて一つにしたい @KEMSHlM  
+    ソース →　[script](/scripts/cat.sh)  
+    tag: cat  
+- 条件を一部書き換えて，複数条件自動で実行したい @KEMSHlM  
+    ソース →　[script](/scripts/ITO.sh)  
+    tag: sed  
