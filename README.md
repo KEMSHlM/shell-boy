@@ -16,4 +16,4 @@
 
 # 2. 一覧
 - [名前に数字が含まれるファイルをまとめて一つにしたい](/scripts/cat.sh) @KEMSHlM  
-- [ソースを一部書き換えて，自動で実行したい](/scripts/cat.sh) @KEMSHlM
+- [ソースを一部書き換えて，自動で実行したい](/scripts/ITO.sh) @KEMSHlM
