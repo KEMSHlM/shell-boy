@@ -22,3 +22,5 @@
 - 条件を一部書き換えて，複数条件自動で実行したい @KEMSHlM  
     ソース →　[script](/scripts/ITO.sh)  
     tag: sed  
+
+next
